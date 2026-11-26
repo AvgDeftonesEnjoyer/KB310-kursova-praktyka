@@ -1,0 +1,7 @@
+﻿type,samples,pass_frequency,pass_block_frequency,pass_runs,pass_serial,pass_all
+prng,100,100,100,99,99,99
+global_bias,100,0,0,0,0,0
+local_bias,100,98,0,79,77,0
+alternating,100,100,100,0,0,0
+periodic_0011,1,1,1,1,1,1
+zeros,1,0,0,0,0,0
